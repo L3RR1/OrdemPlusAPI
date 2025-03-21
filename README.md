@@ -4,7 +4,7 @@ Projeto OrdemPlus
 
 O OrdemPlus é um sistema de gerenciamento de ordens de serviço desenvolvido em .NET 8.0, que visa otimizar e automatizar processos operacionais de empresas. A aplicação é composta por uma API robusta, que se integra a um banco de dados SQL Server, permitindo o gerenciamento centralizado de informações essenciais.
 
--Principais Funcionalidades
+- Principais Funcionalidades
 
 Gerenciamento de Serviços: Cadastro e consulta de serviços oferecidos, facilitando a organização e a definição das operações realizadas pela empresa.
 Gestão de Equipes: Controle das equipes responsáveis pela execução dos serviços, permitindo a visualização e alocação de recursos de forma eficiente.
